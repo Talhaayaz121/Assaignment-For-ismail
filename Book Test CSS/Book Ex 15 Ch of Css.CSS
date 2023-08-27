@@ -1,0 +1,138 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color:darkslategrey ;
+    border: 1px solid transparent;
+    padding: 20px 0 10px 30px;
+}
+.one{
+    color: lemonchiffon;
+}
+.two{
+    color: darkorange;
+}
+h2{
+    border: 1px solid transparent;
+    width: 200px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.ten{
+    color: aliceblue;
+  border: 1px solid transparent;
+  width: 500px;  
+  margin-top: 0;
+}
+/*p{
+    border: 1px solid white;
+    margin-top: 0%;
+    padding-top: 0;
+    padding-bottom: 0;
+}*/
+.seventeen{
+    text-decoration: none;
+    color:whitesmoke;
+}
+.seventeen:hover{
+    text-decoration: underline;
+}
+.seventeen:visited{
+    color: palevioletred;
+}
+.four{
+    border: 1px solid transparent;
+    position: absolute;
+    right: 2em;
+    top: 2em;
+    width: 270px;
+    /*border: 1px solid white;
+    margin-left: 1000px;
+    margin-top: 0%;
+    width: 260px;*/
+}
+.three{
+    color: white;
+}
+.five{
+    position: absolute;
+    left: 250px;
+    top: 10px;
+    z-index: 4;
+    
+}
+.six{
+    position: absolute;
+    top: 10px;
+    left: 63px;
+    z-index: 2;
+}
+.seven{
+    position: absolute;
+    left: 147px;
+    z-index: 6;
+}
+.eight{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    border: 1px solid transparent;
+    width: 300px;
+    margin-left:430px ;
+    color:darkkhaki;
+}
+.nine{
+    color:darkkhaki;
+    
+}
+.eleven{
+    border: 1px solid transparent ;
+    width: 18em;
+    margin-left: 40em;
+    text-align: left;
+
+}
+body{
+    background-color: #413f3b;
+}
+/*.twelve{
+    background-color:rgb(115,66,40);
+}*/
+.thirteen{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fourteen{
+    border-bottom: 1px solid white;
+}
+.fifteen{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+td{
+   font-family: 'Times New Roman', Times, serif;
+   font-size:smaller ;
+    color: darkkhaki;
+    width: 70px;
+    padding-bottom: 10px;
+}
+.sixteen{
+    border-bottom: 1px solid gray ;
+}
+footer{
+    background-color:rgba(0, 0, 0, 0.2);
+    border: 1px solid transparent;
+    padding-left: 55em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+.eighteen{
+    color: #807c72;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+.eighteen:hover{
+    text-decoration: underline;
+}

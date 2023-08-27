@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.one{
+    line-height: 0em; 
+    padding-top: 1em;
+    font-family:'Courier New', Courier, monospace;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+.two{
+    margin-left: 40px;
+}
+.three{
+    white-space: pre;
+    word-spacing: 1em;
+    margin-top: 1px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    color: orange;
+}

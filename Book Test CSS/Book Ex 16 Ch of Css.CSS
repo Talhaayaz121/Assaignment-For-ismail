@@ -1,0 +1,38 @@
+body{
+    color: #665544;
+    background-color: #d4d0c6;
+}
+.one{
+    
+    width: 20em;
+    padding-left:35% ;
+    padding-top: 1em;
+}
+.two{
+    padding-left: 31%;
+    
+}
+
+.three{
+   /* border-color: wheat;
+    border-style: solid;
+    border-width:2px 2px 10px 2px; */
+    display: inline-block;
+
+    
+}
+.five{
+    margin-left: 19em;
+}
+.six{
+    margin-left: 19em;
+}
+.four{
+    display: inline-block;}
+figure{
+    margin: 3px 3px 10px 3px;
+    border-width: 3px 3px 0 3px;
+    border-style: solid;
+    border-color: wheat;
+    background-color: wheat;
+}
