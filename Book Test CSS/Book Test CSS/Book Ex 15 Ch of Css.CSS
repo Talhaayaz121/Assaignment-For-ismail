@@ -95,9 +95,9 @@ h2{
 body{
     background-color: #413f3b;
 }
-/*.twelve{
-    background-color:rgb(115,66,40);
-}*/
+.twelve{
+/*    background-color:rgb(115,66,40);*/
+}
 .thirteen{
     color: white;
     font-family: 'Times New Roman', Times, serif;

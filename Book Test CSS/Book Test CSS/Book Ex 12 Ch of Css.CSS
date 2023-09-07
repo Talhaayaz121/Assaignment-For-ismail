@@ -1,31 +1,40 @@
 .two{
-    color:blue;
-    opacity: 0.8;
-    text-shadow: 1px 1px 2px gray;  
+    color:#0088dd;
+    text-shadow: 2px 2px 2px gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;  
+    line-height: 0.5;
 }
 .one{
+    padding-top: 1em;
     text-indent: 1em;
-    line-height: normal;
+}
+.two{
+    padding-bottom: 10px;
 }
 .three{
+    padding-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    color: deepskyblue;
-    letter-spacing: 0.04em;
+    color:#0088dd;
+    letter-spacing: 0.09em;
     font-variant: small-caps;
     text-transform: uppercase;
+    line-height: 0.5;
 }
 span{
-    color: deepskyblue;
+    color:#0088dd;
 }
 .four{
+    padding-bottom: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: lighter;
+    font-weight: bolder;
 }
 .five{
     margin-left: 1em;
 }
 .six{
-    color: deepskyblue;
+    padding-bottom: 10px;
+    color:#0088dd;
 }
 .seven{
     font-family: Arial, Helvetica, sans-serif;
