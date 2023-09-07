@@ -4,12 +4,13 @@ body{
 }
 .one{
     
-    width: 20em;
-    padding-left:35% ;
+    width: 30em;
+    padding-left:30% ;
     padding-top: 1em;
 }
 .two{
     padding-left: 31%;
+    font-weight: normal;
     
 }
 
